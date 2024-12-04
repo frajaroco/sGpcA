@@ -1,0 +1,3 @@
+useDynLib(sGpcA)
+export(gpca)
+export(laplacian)
