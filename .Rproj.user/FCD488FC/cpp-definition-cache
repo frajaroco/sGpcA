@@ -1,0 +1,87 @@
+[
+    {
+        "file": "C:/Users/UNALMED/Desktop/sGpcA/src/distance_lap_R.c",
+        "file_last_write": 1373119793.0,
+        "definitions": [
+            {
+                "usr": "c:@F@distance_lap_R",
+                "kind": 6,
+                "parent_name": "",
+                "name": "distance_lap_R(SEXP, SEXP, SEXP, SEXP)",
+                "file": "C:/Users/UNALMED/Desktop/sGpcA/src/distance_lap_R.c",
+                "line": 17,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/UNALMED/Desktop/sGpcA/src/lap_sparse_R.c",
+        "file_last_write": 1373119793.0,
+        "definitions": [
+            {
+                "usr": "c:@F@kern_sparse_R",
+                "kind": 6,
+                "parent_name": "",
+                "name": "kern_sparse_R(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "file": "C:/Users/UNALMED/Desktop/sGpcA/src/lap_sparse_R.c",
+                "line": 26,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/UNALMED/Desktop/sGpcA/src/onedlap_R.c",
+        "file_last_write": 1373119793.0,
+        "definitions": [
+            {
+                "usr": "c:@F@onedlap_R",
+                "kind": 6,
+                "parent_name": "",
+                "name": "onedlap_R(SEXP)",
+                "file": "C:/Users/UNALMED/Desktop/sGpcA/src/onedlap_R.c",
+                "line": 17,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/UNALMED/Desktop/sGpcA/src/threedlap_R.c",
+        "file_last_write": 1373119793.0,
+        "definitions": [
+            {
+                "usr": "c:@F@threedlap_R",
+                "kind": 6,
+                "parent_name": "",
+                "name": "threedlap_R(SEXP, SEXP, SEXP)",
+                "file": "C:/Users/UNALMED/Desktop/sGpcA/src/threedlap_R.c",
+                "line": 15,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/UNALMED/Desktop/sGpcA/src/twodlap_R.c",
+        "file_last_write": 1373119793.0,
+        "definitions": [
+            {
+                "usr": "c:@F@twodlap_R",
+                "kind": 6,
+                "parent_name": "",
+                "name": "twodlap_R(SEXP, SEXP)",
+                "file": "C:/Users/UNALMED/Desktop/sGpcA/src/twodlap_R.c",
+                "line": 18,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]
