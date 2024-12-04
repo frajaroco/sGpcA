@@ -1,14 +1,10 @@
 Package: sGpcA
 Type: Package
 Title: Sparse Generalized Principal Component Analysis
-Version: 1.0
-Date: 2024-11-04
-Author: Frederick Campbell - Francisco Javier Rodriguez Cortes
-Maintainer: Frederick Campbell <frrodriguezc@unal.edu.co>
+Version: 0.1.0
 Depends: Matrix,fields
-Description: Functions for computing sparse generalized principal components, including functions for modeling structured correlation
-License: BSD
-Packaged: 
-NeedsCompilation: yes
-Repository: CRAN
-Date/Publication: 
+Author: Frederick Campbell
+Maintainer: Francisco Javier Rodriguez Cortes <frrodriguezc@unal.edu.co>
+Description: Functions for computing sparse generalized principal components, including functions for modeling structured correlation.
+License: GPL-3
+Encoding: UTF-8

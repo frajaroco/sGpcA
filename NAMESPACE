@@ -1,3 +1,7 @@
-useDynLib(sGpcA)
+useDynLib(sGpcA, .registration = TRUE)
 export(gpca)
+export(distLaplacian)
 export(laplacian)
+import(Matrix)
+import(fields)
+importFrom("stats", "rnorm")
