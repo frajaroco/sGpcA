@@ -8,4 +8,5 @@ install.packages('devtools')
 and thereafter run the commands:
 
 require(devtools)
+
 install_github('frajaroco/sGpcA')
